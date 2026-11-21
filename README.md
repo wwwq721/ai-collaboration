@@ -5,6 +5,6 @@
 - [使用说明](SKILL.md)
 - [接入、程序修改、测试、同步、回退与 Git 流程](references/setup.md)
 
-本仓独立维护 AI 协作程序。手机操控项目中的 mobile-ops 和 phone-browser 使用各自原有仓库与发布流程。
+本仓独立维护 AI 协作程序。手机操控项目见 [mobile-agent-skill](https://github.com/wwwq721/mobile-agent-skill)（技能 `screen` / `x-browser`），两边各自维护、各自发布。
 
 仓库仅提供公共源码和虚构配置模板。安装依赖、登记原聊天、设备配对及部署须在实际设备上完成；示例配置不能直接用于真实设备。
